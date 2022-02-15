@@ -1,9 +1,11 @@
 # React todo app
 
-## About
+This is a simple to-do app build with react and font awesome. This app lets you add a to-do list and has basic functionality, including add, remove, and to-do list organization.
 
-This is a simple to do app build with react with font awesome
+### Live demo
 
-### Live link
+Live netlify demo of the application can be found here: https://adoring-shannon-0f873a.netlify.app/
 
-The live site can be viewed with the following link: https://adoring-shannon-0f873a.netlify.app/
+## Screenshort
+
+![Pic](https://raw.githubusercontent.com/healmasud/react-todo-list/master/github-overview/overview.png)
