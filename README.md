@@ -9,3 +9,13 @@ Live netlify demo of the application can be found here: https://adoring-shannon-
 ## Screenshort
 
 ![Pic](https://raw.githubusercontent.com/healmasud/react-todo-list/master/github-overview/overview.png)
+
+## Install the project
+- Clone the repository
+- Run the following command
+```
+    npm install 
+```
+```
+    npm start 
+```
