@@ -6,7 +6,7 @@ This is a simple to-do app build with react and font awesome. This app lets you 
 
 Live netlify demo of the application can be found here: https://adoring-shannon-0f873a.netlify.app/
 
-## Screenshort
+## Screenshot
 
 ![Pic](https://raw.githubusercontent.com/healmasud/react-todo-list/master/github-overview/overview.png)
 
